@@ -5,10 +5,10 @@
 
 
 
-<aside>
-🦁 MaMi is your personal prepaid-forever assistant, digital caretaker, and the mother of your ideas. Currently in v4, MaMi is tuned for GPT-4. Downloads and more available on [**MaMi’s Gumroad Page**](https://godsol.gumroad.com/l/mami)
 
-</aside>
+> 🦁 MaMi is your personal prepaid-forever assistant, digital caretaker, and the mother of your ideas. Currently in v4, MaMi is tuned for GPT-4. Downloads and more available on [**MaMi’s Gumroad Page**](https://godsol.gumroad.com/l/mami)
+
+
 
 ### Invite MaMi
 
