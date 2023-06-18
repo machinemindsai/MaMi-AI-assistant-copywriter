@@ -62,9 +62,3 @@ length_requirements:
 ___
     
 Downloads and more available on [**MaMi’s Gumroad Page**](https://godsol.gumroad.com/l/mami)
-    target_audience: Health-conscious individuals, gym enthusiasts
-    tone: Friendly, motivational, conversational
-    key_messages: Personalized workout plans, track progress, community support
-    content_structure: Subject line, introduction, body, call-to-action
-    length_requirements: 100-200 words per email
-    ```
